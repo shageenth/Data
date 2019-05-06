@@ -34,7 +34,4 @@ plt.bar(x,y)
 
 plt.show()
 
-plt.bar(z,w)
-
-plt.show()
 
